@@ -1,6 +1,5 @@
 # Welcome to my self-learning repo 📗
 
----
 I will upload code that I use for learning and practicing new technologies.
 
 ## Python
